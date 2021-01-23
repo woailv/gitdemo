@@ -1,0 +1,6 @@
+[submodule "slim"]
+	path = slim
+	url = https://github.com/woailv/slim
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/woailv/sub1
